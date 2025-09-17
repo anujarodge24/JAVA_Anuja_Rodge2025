@@ -1,7 +1,0 @@
-class Circle
-{
-    float radius;
-
-    
-    
-}
